@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/joaovictorrocha766/Brookhaven/refs/heads/main/README.md"))()
+
 
 local Window = Rayfield:CreateWindow({
    Name = "Brookhaven Script 🏡",
